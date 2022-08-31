@@ -1,5 +1,5 @@
 # gastroesophageal-varices
-An interpretable artificial intelligence system for endoscopically detecting hemorrhage risk factors of gastroesophageal varices.
+An interpretable artificial intelligence system for detecting risk factors of gastroesophageal variceal bleeding.
 
 # Main dependent tools
 * python: 3.6+
