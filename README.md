@@ -7,7 +7,7 @@ An interpretable artificial intelligence system for endoscopically detecting hem
 * keras: 2.2.5
 
 # Pretrained model
-* https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+* https://github.com/qubvel/classification_models/releases/download/0.0.1/resnet50_imagenet_1000_no_top.h5
 
 # About the author
 * Author
